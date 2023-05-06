@@ -14,7 +14,7 @@ export default function StoryCard({ name, src, profile }:any) {
         <Image
             className='object-cover filter brightness-75 rounded-full lg:rounded-3xl'
             src={src}
-            alt="Image src"
+            alt="Image src" 
             fill
         />
     </div>
