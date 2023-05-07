@@ -5,7 +5,7 @@ import Contact from './Contact'
 
 
 const contacts = [
-    { src: 'https://links.papareact.com/f0p', name: 'Jeff Bezoz' },
+    { src: 'https://links.papareact.com/k2j', name: 'Jeff Bezoz' },
     { src: 'https://links.papareact.com/kxk', name: 'Elon Musk' },
     { src: 'https://links.papareact.com/zvy', name: 'Bill Gates' },
     { src: 'https://links.papareact.com/snf', name: 'Mark Zuckerberg' },
